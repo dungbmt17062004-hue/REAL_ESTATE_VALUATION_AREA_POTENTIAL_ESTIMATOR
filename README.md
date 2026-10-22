@@ -159,9 +159,3 @@ $$\text{Price}_{\text{max}} = \exp\left(\hat{y}_{log} + 1.96 \cdot \sigma_{resid
 | `GET` | `/docs` | Giao diện kiểm thử Swagger UI | None |
 | `GET` | `/api/v1/meta` | Lấy siêu dữ liệu, danh mục quận & thông số mô hình | None |
 | `POST` | `/api/v1/estimate` | Tính toán định giá, khoảng tin cậy & 5 BĐS tương đồng | JSON (`PropertyInput`) |
-
----
-
-## 👨‍💻 7. Đóng góp & Bản quyền (Author)
-* **Sinh viên thực hiện**: Nguyễn Tấn Dũng (K4 - CNTT)
-* **Mục đích**: Đồ án tốt nghiệp / Portfolio ứng tuyển Kỹ sư AI & Full-stack Web.

@@ -1,0 +1,34 @@
+{
+  "model_name": "RealEstate-GradientBoostingRegressor",
+  "r2_score": 0.9888,
+  "mae_million_vnd": 312.82,
+  "rmse_million_vnd": 591.37,
+  "residual_std": 0.0711,
+  "n_samples": 4500,
+  "locations": [
+    "Quận Hải Châu",
+    "Quận Thanh Khê",
+    "Quận Sơn Trà",
+    "Quận Ngũ Hành Sơn",
+    "Quận Cẩm Lệ",
+    "Quận Liên Chiểu"
+  ],
+  "property_types": [
+    "Apartment",
+    "Townhouse",
+    "Villa"
+  ],
+  "furnishing_statuses": [
+    "Unfurnished",
+    "Semi",
+    "Furnished"
+  ],
+  "numeric_features": [
+    "area",
+    "bedrooms",
+    "bathrooms",
+    "stories",
+    "year_built",
+    "distance_to_center"
+  ]
+}

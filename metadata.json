@@ -1,0 +1,6 @@
+{
+  "name": "Bất Động Sản AI - Hệ Thống Định Giá & Tiềm Năng Khu Vực",
+  "description": "Hệ thống định giá bất động sản tự động (AVM) và phân tích tiềm năng đầu tư sử dụng Machine Learning Gradient Boosting, 95% Confidence Interval và K-NN tương đồng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
